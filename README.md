@@ -1,5 +1,7 @@
 # MongoDB Cluster + Docker Compose
-Esto es un repositorio simple para una instalacion de un cluster de mongodb mediante docker compose.
+<div align="center">
+ <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4iX_qCE3Ma-onGA-2e6xwg.jpeg" width="50%"  height="auto"/>
+</div>
 
 ### INSTALACIÓN
 
